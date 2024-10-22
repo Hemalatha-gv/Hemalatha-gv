@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemalatha-gv
-- 👀 I’m interested in Data analytics.
+- 👀 I am passionate about transforming data into meaningful insights 
 
 
 <!---
